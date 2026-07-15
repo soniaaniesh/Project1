@@ -13,7 +13,7 @@
                     <Collection>
                         <PropertyPath>ProductName</PropertyPath>
                         <PropertyPath>ProductID</PropertyPath>
-                        <PropertyPath>ProductID</PropertyPath>
+                        <PropertyPath>SupplierId</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
